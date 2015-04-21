@@ -18,7 +18,7 @@ permalink: /projects/youthlink-scotland/
 
 ### Project description
 
-
+DevelopIng traInIng on the DIgItally AgIle NatIonal PrIncIples.
 
 
 ## Project milestones
