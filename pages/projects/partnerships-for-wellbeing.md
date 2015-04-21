@@ -4,8 +4,8 @@ title: Video Volunteers
 excerpt: To encourage engagement with and confidence in digital technology
 lead: Partnerships for Wellbeing
 website: http://www.pfw.org.uk/
-email: 
-twitter: 
+email: manager@pfw.org.uk
+twitter: Partners4w
 facebook: 
 start: May 2015
 end: March 2016
