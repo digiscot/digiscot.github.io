@@ -27,6 +27,8 @@ On April 18 Ragnhild Ljosland and Alex Sanmark gave a presentation to the Orkney
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/BIsoxHs2dQILLN" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RagnhildLjosland/orkney-community-digital-heritage" title="Orkney community digital heritage" target="_blank">Orkney community digital heritage</a> </strong> from <strong><a href="//www.slideshare.net/RagnhildLjosland" target="_blank">Ragnhild Ljosland</a></strong> </div>
 
+We have designed a short leaflet used to spread information about the project across Orkney. Ragnhild Ljosland took it to North Ronaldsay where she has spent the last few days talking to people about the project. You can seen the leaflet [here].(https://twitter.com/NordicUHI/status/595520414723485697) 
+
 ## Evaluation
 
 This is where the project lead will share information about what was achieved and what was learned.
