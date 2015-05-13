@@ -5,7 +5,8 @@ excerpt: IT suite refurbishment to support various digital inclusion projects
 lead: Toryglen Community Base
 website: http://www.toryglen.org.uk/
 email:  info@toryglen.org.uk
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: January 2015
 end: July 2015
 award: £4,700
@@ -17,7 +18,7 @@ permalink: /projects/toryglen-community-base/
 
 ### Project description
 
-IT suite refurbishment to support the development of Toryglen Digital Base and its work teaching basic computer skills in the community. 
+IT suite refurbishment to support the development of Toryglen Digital Base and its work teaching basic and Intermediate computer skills in the community. 
 
 
 ## Project milestones
