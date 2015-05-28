@@ -24,7 +24,11 @@ We want to deliver a project in Merkinch which supports local people living in p
 
 ## Project milestones
 
-Project milestones coming soon.
+April 2015 - Produced and circulated flyers and posters for the project, promoting it to the local community and to our partners. This was done by email, an article in the local newsletter, handing out flyers to locals (including our current service user in other programmes), leaving flyers in local shops and businesses, taking information to networking events and putting posters in windows in the local area. Information was also circulated on our Facebook and Twitter pages. 
+		+April 2015 - Experienced sessional worker recruited and venue hired. Stationery requirements and other resources purchased.  
+		+April 2015 - Sixteen people signed up for the project, mostly on a self-referal basis.  
+		+20/04/15 - First workshop session delivered by the sessional worker. 
+		+May 2015 - Workshops delivered for seven hours per week. Partners starting to make referrals.
 
 ## Evaluation
 
