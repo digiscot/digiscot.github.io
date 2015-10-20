@@ -125,18 +125,9 @@ Using Ebay fundraising activity as a vehicle for learning digital skills, we wil
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We received this wonderful photo tent as a gift yesterday! <a href="https://twitter.com/hashtag/professional?src=hash">#professional</a> <a href="https://twitter.com/hashtag/scvotweet?src=hash">#scvotweet</a> <a href="https://twitter.com/hashtag/digiscot?src=hash">#digiscot</a> <a href="http://t.co/aEVXQ4sqbE">pic.twitter.com/aEVXQ4sqbE</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/641184804504006656">September 8, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-###November 2015
-- Recruit more peer mentors and volunteers from past participants of courses
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our IT skills course have seen doing a series on social media <a href="https://twitter.com/hashtag/mental?src=hash">#mental</a> health <a href="https://twitter.com/hashtag/Twitter?src=hash">#Twitter</a> <a href="https://twitter.com/hashtag/Facebook?src=hash">#Facebook</a> <a href="https://twitter.com/hashtag/blogging?src=hash">#blogging</a> <a href="http://t.co/Y5fXMm0cc8">pic.twitter.com/Y5fXMm0cc8</a></p>&mdash; Flourish House (@FlourishHouse1) <a href="https://twitter.com/FlourishHouse1/status/646332338813693953">September 22, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-###December 2015
-TBA
-
-###January 2015
-- Deliver Ebay Training Module and support. 
-
-###February 2015
-
-###March 2015
 
 
 ## Evaluation
@@ -147,7 +138,7 @@ This is where the project lead will share information about what was achieved an
 
 Overall this project X, Y, Z.
 
-In terms of outputs we delivered A, B and C.
+In terms of outputs we delivered 
 
 In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
 
