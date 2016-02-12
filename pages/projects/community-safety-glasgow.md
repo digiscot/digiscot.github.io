@@ -28,6 +28,9 @@ The project will offer members of the community free access to the internet via 
 As well as co-ordination, the Digital Inclusion Officer will also undertake one to one and group work support sessions around issues such as employability and financial inclusion. 
 
 The ICT equipment that will be used are connected to Glasgow Kelvin College’s network and our two centres, built in 2014 (Maryhill) and 2015 (Milton) are all new equipment. 
+Visit Our Facebook Pages for information on Centres
+https://www.facebook.com/themaryhillhub/?fref=ts
+https://www.facebook.com/The-Ashgill-Recreation-Centre-ARC-417225815075546/
 
 The Maryhill Digital Inclusion programme will also seek to engage volunteers within the centre to support clients. Currently we have one digital inclusion volunteer who contributes 14 hours per week within Maryhill.
 
