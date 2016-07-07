@@ -45,13 +45,14 @@ The Ipad devices will be used to support digital inclusion amongst the crofting 
 
 ### Planned project milestones
 
-* Purchase 15 Ipad Air 2 with Gumdrop Cases: December 2015
+* Purchase 15 Ipad Air 2 with Gumdrop Cases: March 2016
 
-* Development time required to integrate digital inclusion into training programme: January 2016
+* Development time required to integrate digital inclusion into training programme: April 2016
 
-* Run in-house staff training day for Local Course Directors and Tutors at two possible locations: February 2016
+* Run in-house staff training day for Local Course Directors and Tutors at two possible locations: June and August 2016
+* <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcroftingcraic%2Fposts%2F10153528014826218&width=500" width="500" height="683" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-* Start of programme - 8 Crofting Entry Level Courses, 48 Practical Skills Courses, 3 Intermediate Seminars, 4 Croft Visits and 4 Demonstration Days: March 2016
+* Start of programme - 8 Crofting Entry Level Courses, 48 Practical Skills Courses, 3 Intermediate Seminars, 4 Croft Visits and 4 Demonstration Days: July 2016
 
 * Evaluation of Croft IT project within SCF Training Programme to ensure IT training becomes a keystone of succeeding years within the Training Programme. During 2016 - 2019 we aim to support a further 1,500 Service Users: October 2016
 
