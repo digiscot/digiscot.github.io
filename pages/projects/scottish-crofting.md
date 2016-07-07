@@ -50,7 +50,8 @@ The Ipad devices will be used to support digital inclusion amongst the crofting 
 * Development time required to integrate digital inclusion into training programme: January 2016
 
 * Run in-house staff training day for Local Course Directors and Tutors at two possible locations: February 2016
-
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Tomorrow SCF volunteer board goes digital <a href="https://twitter.com/hashtag/croftIT?src=hash">#croftIT</a> project <a href="https://twitter.com/scvotweet">@scvotweet</a> digital challenge fund <a href="https://twitter.com/hashtag/crofting?src=hash">#crofting</a> <a href="https://t.co/K24h9qLeLF">pic.twitter.com/K24h9qLeLF</a></p>&mdash; Crofting Training (@SCFtraining) <a href="https://twitter.com/SCFtraining/status/740844214469185536">9 June 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 * Start of programme - 8 Crofting Entry Level Courses, 48 Practical Skills Courses, 3 Intermediate Seminars, 4 Croft Visits and 4 Demonstration Days: March 2016
 
 * Evaluation of Croft IT project within SCF Training Programme to ensure IT training becomes a keystone of succeeding years within the Training Programme. During 2016 - 2019 we aim to support a further 1,500 Service Users: October 2016
