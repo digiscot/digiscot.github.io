@@ -47,7 +47,7 @@ The Maryhill Digital Inclusion programme will also seek to engage volunteers wit
 
 
 ### Evaluation
-
+Evaluation Update January 2017
 
 ### Lessons learned
 
